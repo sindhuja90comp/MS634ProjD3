@@ -1,4 +1,6 @@
-# Data Mining on UCI Adult Income Dataset - Advanced Big Data and Data Mining (MSCS-634-B01) - Project Deliverable 3: Classification, Clustering, and Pattern Mining
+# Data Mining on UCI Adult Income Dataset 
+- Advanced Big Data and Data Mining (MSCS-634-B01)
+- Project Deliverable 3: Classification, Clustering, and Pattern Mining
 
 
 ## Project Overview
