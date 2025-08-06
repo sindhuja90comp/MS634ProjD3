@@ -1,4 +1,5 @@
-# MS634ProjD3: Data Mining on UCI Adult Income Dataset
+# Data Mining on UCI Adult Income Dataset - Advanced Big Data and Data Mining (MSCS-634-B01) - Project Deliverable 3: Classification, Clustering, and Pattern Mining
+
 
 ## Project Overview
 This project explores the UCI Adult Income dataset using classification, clustering, and association rule mining techniques. The goal is to uncover patterns related to income, education, and employment, and to discuss their practical implications.
