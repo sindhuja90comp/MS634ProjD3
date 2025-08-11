@@ -1,7 +1,6 @@
-# Advanced Big Data and Data Mining (MSCS-634-B01)
-## Project Deliverable 3: Classification, Clustering, and Pattern Mining
+## Course : Advanced Big Data and Data Mining (MSCS-634-B01)
+## Deliverable 3: Classification, Clustering, and Pattern Mining
 
-## Data Mining on UCI Adult Income Dataset 
 ## Project Overview 
 This project explores the UCI Adult Income dataset using classification, clustering, and association rule mining techniques. The goal is to uncover patterns related to income, education, and employment, and to discuss their practical implications.
 
